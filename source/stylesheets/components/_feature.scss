@@ -22,27 +22,21 @@ h2 {
   padding-top: 100px;
 }
 
-img {
-  width: 100px;
-}
-
-.icon {
+.icon{
   position: relative;
   display: flex;
   align-items: center;
   justify-content: space-between;
   margin-top: 100px;
   margin-bottom: 100px;
-}
-
-.icon h2 {
+  h2{
   font-size: 20px;
   margin-bottom: 15px;
-}
-
-.icon p {
+  }
+  p{
   font-size: 15px;
   font: lighter;
+  }
 }
 
 .form{
